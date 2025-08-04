@@ -3,7 +3,7 @@
 * 🎓 Engenheiro de Software com Técnico em Sistemas para Internet (Senai)
 * 👨‍💻 Analista de Planejamento no Grupo Casas Bahia
 
-Atuo na automação e otimização de processos utilizando C# e desenvolvimento de soluções web escaláveis adotadas nacionalmente. Utilizo práticas como **Clean Architecture** e **Domain-Driven Design (DDD)** para garantir código modular, manutenível e alinhado ao negócio.
+Atuo na automação e otimização de processos utilizando C# e desenvolvimento de soluções web escaláveis adotadas nacionalmente. Utilizo práticas como **Clean Code** e **SOLID** para garantir código modular, manutenível e alinhado ao negócio.
 
 Tenho experiência como **desenvolvedor Full Stack**, com foco em APIs, aplicações web e manutenção de sistemas em produção, aplicando boas práticas como **TDD** e testes automatizados.
 
